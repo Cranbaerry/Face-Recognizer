@@ -1,3 +1,8 @@
+# Python Footbal Face Recognition
+# Naufal Hardiansyah / 2540117855
+# Raymond Prasetio / 2501996846
+# Repository: https://github.com/Cranbaerry/Face-Recognizer
+
 import cv2
 import os
 import numpy as np
